@@ -1,6 +1,8 @@
 Air Quality Report
 
-1. Aim: The aim of this project is to visualize how key air pollutants such as, Carbon Monoxide (CO), Nitric Oxide (NO), Nitrogen Dioxide (NO₂), PM2.5, and PM10 affect the air quality across various cities in India, using data spanning from 2015 to 2020.
+1. Aim:
+
+The aim of this project is to visualize how key air pollutants such as, Carbon Monoxide (CO), Nitric Oxide (NO), Nitrogen Dioxide (NO₂), PM2.5, and PM10 affect the air quality across various cities in India, using data spanning from 2015 to 2020.
    
 3. Objectives
    
